@@ -51,6 +51,10 @@
 - NumPy
 - Matplotlib
 
+  [[作業日誌リンク]](https://github.com/yukimasa0705/knowlegeGame_java/tree/main/dailyReport))
+
+ここをクリックすれば、プロジェクトの進行や日々の作業メモを簡単に確認できます。進捗やアイデアを管理するために活用しています。
+
 ---
 
 ## 🗂️ ディレクトリ構成（予定）
